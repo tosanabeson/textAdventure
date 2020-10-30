@@ -1,0 +1,13 @@
+C:\Users\tosan\source\repos\textAdventure\textAdventure\bin\Debug\netcoreapp3.1\textAdventure.exe
+C:\Users\tosan\source\repos\textAdventure\textAdventure\bin\Debug\netcoreapp3.1\textAdventure.deps.json
+C:\Users\tosan\source\repos\textAdventure\textAdventure\bin\Debug\netcoreapp3.1\textAdventure.runtimeconfig.json
+C:\Users\tosan\source\repos\textAdventure\textAdventure\bin\Debug\netcoreapp3.1\textAdventure.runtimeconfig.dev.json
+C:\Users\tosan\source\repos\textAdventure\textAdventure\bin\Debug\netcoreapp3.1\textAdventure.dll
+C:\Users\tosan\source\repos\textAdventure\textAdventure\bin\Debug\netcoreapp3.1\textAdventure.pdb
+C:\Users\tosan\source\repos\textAdventure\textAdventure\obj\Debug\netcoreapp3.1\textAdventure.csprojAssemblyReference.cache
+C:\Users\tosan\source\repos\textAdventure\textAdventure\obj\Debug\netcoreapp3.1\textAdventure.AssemblyInfoInputs.cache
+C:\Users\tosan\source\repos\textAdventure\textAdventure\obj\Debug\netcoreapp3.1\textAdventure.AssemblyInfo.cs
+C:\Users\tosan\source\repos\textAdventure\textAdventure\obj\Debug\netcoreapp3.1\textAdventure.csproj.CoreCompileInputs.cache
+C:\Users\tosan\source\repos\textAdventure\textAdventure\obj\Debug\netcoreapp3.1\textAdventure.dll
+C:\Users\tosan\source\repos\textAdventure\textAdventure\obj\Debug\netcoreapp3.1\textAdventure.pdb
+C:\Users\tosan\source\repos\textAdventure\textAdventure\obj\Debug\netcoreapp3.1\textAdventure.genruntimeconfig.cache
